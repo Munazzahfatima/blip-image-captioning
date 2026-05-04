@@ -4,8 +4,6 @@ An AI-powered image captioning web app built with **Salesforce BLIP** (ViT-B/16 
 
 Upload any image and get a natural language description — instantly. Supports both unconditional captioning and prompt-guided (conditional) captioning.
 
-![BLIP Architecture](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/blip-2/thumbnail.png)
-
 ---
 
 ## ✨ Features
@@ -156,7 +154,7 @@ Returns `{ "status": "healthy" }` — useful for uptime checks.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ### Backend (`requirements.txt`)
 ```
@@ -175,7 +173,7 @@ python-multipart==0.0.6
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feature/my-feature`
@@ -185,13 +183,13 @@ python-multipart==0.0.6
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Salesforce BLIP](https://github.com/salesforce/BLIP) — the underlying vision-language model
 - [Hugging Face Transformers](https://huggingface.co/Salesforce/blip-image-captioning-base) — model hosting & inference API
