@@ -131,15 +131,16 @@ Generate a caption for an uploaded image.
 }
 ```
 
-### `GET /health`
-
-Returns `{ "status": "healthy" }` — useful for uptime checks.
-
----
-
 ## 🖥️ Screenshots
+"Webpage"
+<img width="985" height="692" alt="Screenshot 2026-06-12 193619" src="https://github.com/user-attachments/assets/85758940-a0dc-4a49-b823-92518ada4ce1" />
+"General - Unconditional"
+<img width="1252" height="751" alt="Screenshot 2026-06-12 193511" src="https://github.com/user-attachments/assets/fb42c61f-d684-41d4-b69b-0a29412e8ede" />
+"with condition:
+<img width="1102" height="758" alt="Screenshot 2026-06-12 193255" src="https://github.com/user-attachments/assets/299911f4-3982-44b0-8842-78296d001089" />
 
-> _Add screenshots of the app here once deployed._
+<img width="952" height="677" alt="Screenshot 2026-06-12 193417" src="https://github.com/user-attachments/assets/94beb08e-8438-4a8c-abd4-3043a245c716" />
+
 
 ---
 
